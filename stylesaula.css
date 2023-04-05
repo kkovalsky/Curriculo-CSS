@@ -1,0 +1,15 @@
+*{
+    background-color: coral;
+}
+
+.container-mae {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.filha {
+    width: 30%;
+}

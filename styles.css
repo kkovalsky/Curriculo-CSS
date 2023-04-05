@@ -1,0 +1,67 @@
+Body {
+    background-color: #f0bade;
+    margin: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+
+p {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(165, 19, 150);
+    text-align: center;
+    font-weight: 1000;
+    font-size: large;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    color: rgb(165, 19, 150);
+    text-align: center;
+    font-size: 1300;
+}
+
+#imagem_perfil {
+    width: 100%;
+    text-align: center;
+}
+
+.subtitulo_primario {
+    color: #f0baeb 
+
+}
+
+.subtitulo_secundário {
+    color: rgb(140, 109, 137)
+}
+
+table {
+
+
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    width: 100%;
+    margin-bottom: .1m;
+    table-layout: fixed;
+    text-align: center;
+
+}
+td, th {
+    
+
+    width: 30%;
+    height: 20%;
+    padding: 2em;
+    margin: 0;
+    /*border: 1px solid #ccc:*/
+    text-align: center;
+}
+
+.logo { width: 30px;}
